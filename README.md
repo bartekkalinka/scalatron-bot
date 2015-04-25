@@ -8,5 +8,3 @@ Started with reference bot that spawned copies of itself.  Then I took [marpiec'
 I tweaked some stuff in opposition to marpiec's bot ways:
 - Spawning - my bot spawns as quickly as possible, no limit here.
 - Exact condition for explosion in my bot is simpler - just Explode(3) when any enemy is 2 steps or closer.
-
-That way, my bot beats marpiec's bot in any 30 rounds.
